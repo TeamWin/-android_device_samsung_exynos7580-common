@@ -6,6 +6,7 @@
 /system         ext4    /dev/block/platform/13540000.dwmmc0/by-name/SYSTEM	    flags=display="System"
 /efs            emmc    /dev/block/platform/13540000.dwmmc0/by-name/EFS         flags=display="EFS";backup=1	
 /radio          emmc    /dev/block/platform/13540000.dwmmc0/by-name/RADIO       flags=display="RADIO";backup=1	
+/persist        ext4    /dev/block/platform/13540000.dwmmc0/by-name/PERSISTENT  flags=display="Persist"
 
 /external_sd    auto    /dev/block/mmcblk1p1    /dev/block/mmcblk1              flags=display="MicroSD";storage;wipeingui;removable
 /usb-otg        auto    /dev/block/sda1         /dev/block/sda                  flags=display="USB OTG";storage;wipeingui;removable
