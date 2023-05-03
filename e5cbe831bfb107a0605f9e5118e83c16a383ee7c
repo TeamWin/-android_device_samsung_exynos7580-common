@@ -33,6 +33,24 @@
       "message": "I thinks this should be done on a per device basis.",
       "revId": "e5cbe831bfb107a0605f9e5118e83c16a383ee7c",
       "serverId": "9c1c7d72-6534-4d44-b0ea-39f63e804833"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "461b8318_cebe15f6",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1101
+      },
+      "writtenOn": "2023-05-03T08:52:50Z",
+      "side": 1,
+      "message": "For what?\nThere are a number of models (A310, A510, ...) based on this processor (Exynos7580), and specifically on the A310 the problem was manifested.",
+      "parentUuid": "c9899ca5_aa57e382",
+      "revId": "e5cbe831bfb107a0605f9e5118e83c16a383ee7c",
+      "serverId": "9c1c7d72-6534-4d44-b0ea-39f63e804833"
     }
   ]
 }
