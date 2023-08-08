@@ -51,6 +51,23 @@
       "parentUuid": "c9899ca5_aa57e382",
       "revId": "e5cbe831bfb107a0605f9e5118e83c16a383ee7c",
       "serverId": "9c1c7d72-6534-4d44-b0ea-39f63e804833"
+    },
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "15ab3260_a1d1ae3f",
+        "filename": "BoardConfigCommon.mk",
+        "patchSetId": 2
+      },
+      "lineNbr": 71,
+      "author": {
+        "id": 1101
+      },
+      "writtenOn": "2023-08-08T15:50:32Z",
+      "side": 1,
+      "message": "d",
+      "revId": "e5cbe831bfb107a0605f9e5118e83c16a383ee7c",
+      "serverId": "9c1c7d72-6534-4d44-b0ea-39f63e804833"
     }
   ]
 }
