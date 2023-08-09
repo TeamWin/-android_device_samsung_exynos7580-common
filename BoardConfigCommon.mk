@@ -59,7 +59,6 @@ TARGET_RECOVERY_DEVICE_DIRS += device/samsung/exynos7580-common
 # TWRP specific build flags
 TW_THEME := portrait_hdpi
 RECOVERY_SDCARD_ON_DATA := true
-BOARD_HAS_NO_REAL_SDCARD := true
 TARGET_RECOVERY_PIXEL_FORMAT := "ABGR_8888"
 TW_BRIGHTNESS_PATH := "/sys/devices/14800000.dsim/backlight/panel/brightness"
 TW_NO_REBOOT_BOOTLOADER := true
